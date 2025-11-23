@@ -46,8 +46,9 @@ Machine Learning · Reinforcement Learning · Backend · IoT · NLP
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Teejay2424/Teejay2424/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 ---
 
