@@ -1,7 +1,7 @@
-<h1 align="center">Hi there! </h1>
+<h1 align="center">Hi there :)</h1>
 
 <p align="center">
-You can find me here :
+Here are my socials! :
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@ You can find me here :
 
 Hi, I am **Teja**!
 
-- 🎓 I’m currently a **college student graduating by 2027**.
 - 👾 An upcoming intern at **Dell Technologies.**
-- 🤖 I have worked on cool ML/AI projects including:
+- 🎓 I’m currently a **college student graduating by 2027**.
+- 🤖 I have worked on some cool ML/AI projects including:
   - **Lofi Mood Recommendation System**
   - **The Blink Tracker** (Assistive IoT)
 - 🌱 Learning **Reinforcement Learning, ML**, and backend development.
