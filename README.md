@@ -42,14 +42,6 @@ Machine Learning · Reinforcement Learning · Backend · IoT · NLP
 
 
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=transparent" />
-</p>
-
----
 
 ## 🐍 GitHub Contribution Snake
 
