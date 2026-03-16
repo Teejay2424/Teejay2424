@@ -13,16 +13,10 @@ Here are my socials! :
 
 ## 👋 About Me
 
-Hi, I am **Teja**!
+Hey there, I'm**Teja**!
 
-- 👾 An upcoming intern at **Dell Technologies.**
-- 🎓 I’m currently a **college student graduating by 2027**.
-- 🤖 I have worked on some cool ML/AI projects including:
-  - **Lofi Mood Recommendation System**
-  - **The Blink Tracker** (Assistive IoT)
-- 🌱 Learning **Reinforcement Learning, ML**, and backend development.
-- 💻 Interested in **problem solving, ML systems, APIs, and building unique projects**.
-- 🎵 Love experimenting with **music + AI** ideas.
+A current junior at university, I'm currently interested in the domain of AI & ML at the moment.
+
 
   Would love to chat so do hit me up! :)
 ---
@@ -33,7 +27,7 @@ Hi, I am **Teja**!
 Python · C++ · SQL · JavaScript  
 
 **Frameworks & Tools:**  
-FastAPI · Node.js · MongoDB · Docker · Hugging Face · MATLAB  
+FastAPI · Node.js · MongoDB · Docker · Hugging Face 
 
 **Domains:**  
 Machine Learning · Reinforcement Learning · Backend · IoT · NLP  
