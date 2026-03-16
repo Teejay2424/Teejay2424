@@ -13,7 +13,7 @@ Here are my socials! :
 
 ## 👋 About Me
 
-Hey there, I'm**Teja**!
+Hey there, I'm **Teja**!
 
 A current junior at university, I'm currently interested in the domain of AI & ML at the moment.
 
