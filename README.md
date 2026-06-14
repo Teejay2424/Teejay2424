@@ -4,11 +4,6 @@
 Here are my socials! :
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/teja-sreya"><b>LinkedIn</b></a> •
-  <a href="mailto:tejasreya11@gmail.com"><b>Email</b></a> •
-</p>
-
 ---
 
 ## 👋 About Me
