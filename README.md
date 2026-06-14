@@ -1,12 +1,7 @@
 <h1 align="center">Hi there :)</h1>
 
-<p align="center">
-Here are my socials! :
-</p>
 
 ---
-
-## 👋 About Me
 
 Hey there, I'm **Teja**!
 
